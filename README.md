@@ -1,4 +1,4 @@
 # Portfoliominar
 This is my 1st repository or folder 
 <br>
-Author- Sadiq
+Author- Moinul Hasan
